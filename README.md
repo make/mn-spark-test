@@ -1,5 +1,5 @@
 # mn-spark-test
-Reproduces the issue with Micronaut + Apache Spark
+Reproduces the issue https://github.com/micronaut-projects/micronaut-core/issues/892 with Micronaut + Apache Spark
 
 Steps to reproduce the issue:
 ```
